@@ -6,6 +6,7 @@
 - 💞️ I’m looking to collaborate on very good web full stack projects
     </h3>
 - <span>📫 Reach out to me at the email meerhidayat563@gmail.com</span>
+  </br>
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=green)]
   
   
