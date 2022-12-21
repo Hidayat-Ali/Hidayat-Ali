@@ -6,6 +6,10 @@
 - 💞️ I’m looking to collaborate on very good web full stack projects
     </h3>
 - <span>📫 Reach out to me at the email meerhidayat563@gmail.com</span>
+  
+  
+  
+  [![Hidayat's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
