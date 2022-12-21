@@ -7,7 +7,7 @@
     </h3>
 - <span>📫 Reach out to me at the email meerhidayat563@gmail.com</span>
   </br>
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=green)]
+![linkedIn](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=green)]
   
   
   
