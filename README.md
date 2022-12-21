@@ -1,13 +1,21 @@
 - <h1>Hi, I’m Hidayat-Ali 👋<h1>
-  
-  <h3>
-- 👀 I’m interested in ...coding and have very keep interest in deep learning...
-- 🌱 I’m currently learning python
+
+
+<br/>
+
+
+<br/>
+- 👀 I’m interested in ...coding and have very keep interest in deep learning...</br>
+- 🌱 I’m currently learning python </br>
 - 💞️ I’m looking to collaborate on very good web full stack projects
-    </h3>
+
+  
+
+
+
 - <span>📫 Reach out to me at the email meerhidayat563@gmail.com</span>
   </br>
-![linkedIn](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=green)]
+![linkedIn](https://www.linkedin.com/in/hidayat-ali-7806271b7/?style=for-the-badge&logo=linkedIn&logoColor=green)]
   
   
   
@@ -16,6 +24,8 @@
   
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hidayat-Ali)](https://github.com/Hidayat-Ali)
+  
+  
   
   
 
