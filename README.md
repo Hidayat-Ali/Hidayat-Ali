@@ -15,7 +15,7 @@
 
 - <span>📫 Reach out to me at the email meerhidayat563@gmail.com</span>
   </br>
-![linkedIn](https://www.linkedin.com/in/hidayat-ali-7806271b7/?style=for-the-badge&logo=linkedIn&logoColor=green)]
+
   
   
   
