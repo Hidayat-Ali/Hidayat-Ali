@@ -1,13 +1,13 @@
 - <h1>Hi, I’m Hidayat-Ali 👋.   (FULL STACK WEB DEVELOPER)<h1>
   
-  <b> LOOKING FOR JOB AS FRONTEND DEVELOPER</b>
+  <p><b> LOOKING FOR JOB AS FRONTEND DEVELOPER</b></p>
 
 
 <br/>
 
 
 <br/>
-- 👀 I’m interested in ...coding and have very keep interest in deep learning...</br>
+- 👀 I Love to solve tech Problems with effective solutions and have very keen interest in  machine learning and deep learning...</br>
 - 🌱 I’m currently learning machine Learning </br>
 - 💞️ I am frontend developer with technologies ( <b>HTML CSS BOOTSTRAP JAVASCRIPT(JQUERY,REACTJS </b>) </br>
 -  💞️ I am backend developer with technologies(<b>PHP(SMARTY , LARAVEL,AJAX </b>) and biggener in C4(Codeigniter4 )
@@ -16,7 +16,7 @@
 
 
 
-- <h3>📫 Reach out to me at the email meerhidayat563@gmail.com</h3>
+- <p>📫 Reach out to me at the email <b>meerhidayat563@gmail.com </b></p>
   </br>
 
   
