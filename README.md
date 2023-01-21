@@ -1,4 +1,6 @@
 - <h1>Hi, I’m Hidayat-Ali 👋.   (FULL STACK WEB DEVELOPER)<h1>
+  
+  <b> LOOKING FOR JOB AS FRONTEND DEVELOPER</b>
 
 
 <br/>
