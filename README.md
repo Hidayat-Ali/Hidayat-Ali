@@ -7,7 +7,7 @@
 <br/>
 - 👀 I’m interested in ...coding and have very keep interest in deep learning...</br>
 - 🌱 I’m currently learning machine Learning </br>
-- 💞️ I am frontend developer with technologies (HTML CSS BOOTSTRAP JAVASCRIPT(JQUERY,REACTJS)
+- 💞️ I am frontend developer with technologies (HTML CSS BOOTSTRAP JAVASCRIPT(JQUERY,REACTJS) </br>
 -  💞️ I am backend developer with technologies(PHP(SMARTY , LARAVEL,AJAX) and biggener in C4(Codeigniter4)
 
   
