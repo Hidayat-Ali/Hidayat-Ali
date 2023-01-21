@@ -1,4 +1,4 @@
-- <h1>Hi, I’m Hidayat-Ali 👋<h1>
+- <h1>Hi, I’m Hidayat-Ali 👋.   (FULL STACK WEB DEVELOPER)<h1>
 
 
 <br/>
@@ -6,14 +6,15 @@
 
 <br/>
 - 👀 I’m interested in ...coding and have very keep interest in deep learning...</br>
-- 🌱 I’m currently learning python </br>
-- 💞️ I’m looking to collaborate on very good web full stack projects
+- 🌱 I’m currently learning machine Learning </br>
+- 💞️ I am frontend developer with technologies (HTML CSS BOOTSTRAP JAVASCRIPT(JQUERY,REACTJS)
+-  💞️ I am backend developer with technologies(PHP(SMARTY , LARAVEL,AJAX) and biggener in C4(Codeigniter4)
 
   
 
 
 
-- <span>📫 Reach out to me at the email meerhidayat563@gmail.com</span>
+- <h3>📫 Reach out to me at the email meerhidayat563@gmail.com</h3>
   </br>
 
   
