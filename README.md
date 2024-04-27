@@ -10,7 +10,7 @@
 - 👀 I Love to solve tech Problems with effective solutions and have very keen interest in  machine learning and deep learning...</br>
 - 🌱 I’m currently learning machine Learning </br>
 - 💞️ I am frontend developer with technologies ( <b>HTML CSS BOOTSTRAP JAVASCRIPT(JQUERY,REACTJS </b>) </br>
--  💞️ I am backend developer with technologies(<b>PHP(SMARTY , LARAVEL,AJAX </b>) 
+-  💞️ I am backend developer with technologies(<b>PHP(SMARTY , LARAVEL,AJAX,Node JS </b>) 
 
   
 
