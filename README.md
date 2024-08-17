@@ -40,7 +40,7 @@
 
   [![Hidayat's github stats](https://github-readme-stats.vercel.app/api?username=Hidayat-Ali&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Hidayat-Ali)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hidayat-ali&show_icons=true&locale=en" alt="hidayat-ali" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hidayat-ali&" alt="hidayat-ali" /></p>
 
