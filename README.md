@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hidayat Ali</h1>
 <h3 align="center">A passionate Web developer from kashmir</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hidayat-ali" alt="hidayat-ali" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" alt="hidayat-ali" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/hidayatali" target="blank"><img src="https://img.shields.io/twitter/follow/hidayatali?logo=twitter&style=for-the-badge" alt="hidayatali" /></a> </p>
 
